@@ -1,7 +1,7 @@
 {
-  "name": "react-resize-listener",
-  "private": true,
-  "version": "0.0.0",
+  "name": "react-resize-listener-hook",
+  "private": false,
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,6 +12,10 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashk2023/react-resize-listener.git"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
@@ -25,5 +29,22 @@
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.18.2",
     "vite": "^6.0.5"
-  }
+  },
+  "author": "Yash K (https://github.com/yashk2023)",
+  "bugs": {
+    "url": "https://github.com/yashk2023/react-resize-listener/issues"
+  },
+  "keywords": [
+    "react",
+    "resize",
+    "detector",
+    "resizeObserver",
+    "observer",
+    "windowResize"
+  ],
+  "contributors": [
+    {
+      "name": "Yash K (@yashk2023)"
+    }
+  ]
 }
